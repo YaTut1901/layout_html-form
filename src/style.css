@@ -1,1 +1,20 @@
 /* styles go here */
+.form_input {
+  margin-bottom: 10px;
+}
+
+.form_fieldset {
+  margin-bottom: 20px;
+}
+
+.form_radio {
+  margin-bottom: 14px;
+}
+
+.form_rate {
+  margin-top: 12px;
+}
+
+.form_recommend {
+  margin-top: 10px;
+}
